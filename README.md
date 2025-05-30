@@ -1,4 +1,4 @@
-# Unser KI Memory
+# KI Memory
 _Spielerisch KI generierte Inhalte von echten Fotos unterscheiden_
 
 ## Jetzt online spielen
@@ -18,6 +18,7 @@ Viel Spaß  💙
 
 ---
 Das KI Memory wurde von [Annika Rüll](https://www.linkedin.com/in/annika-ruell/) in ehrenamtlicher Arbeit bei IT4Kids für euch erstellt.
+
 Quelle der Bilder: Lexica.art, unsplash.com und pixabay.com
 
 This work is licensed under a
